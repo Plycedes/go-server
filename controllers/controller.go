@@ -16,7 +16,7 @@ import (
 	"go.mongodb.org/mongo-driver/mongo/options"
 )
 
-const connectionString = "mongodb+srv://blacksteel:napoleon@virgo0.ltm8rd6.mongodb.net"
+const connectionString = ""
 const dbName = "goflixDB"
 const colName = "watchlist"
 

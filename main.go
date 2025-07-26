@@ -5,7 +5,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/plycedes/mongoAPI/routes"
+	"github.com/plycedes/go-server/routes"
 )
 
 func main() {
